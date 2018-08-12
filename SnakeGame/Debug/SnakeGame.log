@@ -1,0 +1,3 @@
+﻿  snake.cpp
+c:\users\apple\source\repos\snakegame\snakegame\snake.cpp(117): warning C4715: 'Snake::getLayoutValue': not all control paths return a value
+  SnakeGame.vcxproj -> C:\Users\apple\source\repos\SnakeGame\Debug\SnakeGame.exe
